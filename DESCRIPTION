@@ -1,0 +1,14 @@
+Package: regexcite
+Title: string splittining
+Version: 0.0.0.9000
+Authors@R: 
+    person("FF", "R", , "FFR@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0008-1781-4066"))
+Description: this package creates a function to split a string on any character.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
